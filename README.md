@@ -23,4 +23,4 @@ IT연합동아리-WIT | 2022.03 ~ 2023.02 | 웹앱 제작 - 프론트엔드 개�
 CAST (Customized Accelerating for Startup Team) | 2022-11 ~ 2023-01 | 창업 교육 이수
 창업동아리 | 2023-02 ~ 2023-07 | 모바일 애플리케이션 기획 및 프로토타입 제작, [ppt 링크](https://docs.google.com/presentation/d/1HLhqJOJ4hNtRGrkg0T9dSlvvDP6Jjcw6Uo9XZ01wCJg/edit?usp=sharing)
 캡스톤디자인 | 2023-07 ~ 2024-06 | 모바일 앱 기획 및 서버 개발 담당 : api 설계 및 개발, aws ec2 배포
-웹 게임 제작 | 2024-03 ~ 2024-06 | 서버 개발 담당 : erd 및 api 설계 및 개발
+웹 게임 제작 | 2024-03 ~ 2024-06 | 서버 개발 담당 : erd 및 api 설계, 개발
