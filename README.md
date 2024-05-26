@@ -10,7 +10,7 @@
 ### ✔️Mobile
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 
-### 🏆
+### 🏆 수상경력
 |날짜|대회명|수상|내용|
 |---|---|---|---|
 2022 | 한양대학교 제10회 SW창업아이디어톤 | 장려상(총장상) | 모바일 관련 사업계획서 작성 |
