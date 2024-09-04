@@ -34,6 +34,10 @@
 2023 5개 대학 스타트업 RPG 캠프 - 최우수상 
 : WEB 기반 교육용 창업 경영 시뮬레이션 프로그램에서 COO역할로 참여
 
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yujeonglm99)](https://solved.ac/yujeonglm99)<br/>
+
 </div>
 <br><br>
 2023.09~2024.04.28까지의 활동이 contribution에 반영이 안 되어있습니다.
