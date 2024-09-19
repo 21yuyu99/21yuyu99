@@ -3,9 +3,13 @@
 ## Introduction
 <br>안녕하세요! 항상 장기적인 관점에서 서비스의 안정성과 확장성을 생각하는 개발자가 되겠습니다.<br><br>
 
-## Portfolio
-[link](https://sweltering-mist-f98.notion.site/acd225a846c148fea02cdd4d24acab60?pvs=4)
-
+## Activities 
+2024.07 ~ 2024.08 | 삼성전자 DX부문 하계 대학생 S/W 알고리즘 역량 강화 특강 수료<br><br>
+2023.07 ~ 2024.06 | 생성형AI를 활용한 SNS 마케팅 자동화 서비스 앱 | Spring Boot 개발 팀원<br><br>
+2024.03 ~ 2024.06 | 오프라인 보드게임을 웹 게임으로 개발하는 프로젝트 | Spring Boot 개발 팀장<br><br>
+2023.07 | 산업통상자원부 공공데이터 활용 공모전 - 제품 및 서비스 개발 부문 | 팀장, 디자인, Flutter 개발<br><br>
+2023.02 ~ 2023.07 | 창업동아리 | IT 플랫폼 기획 <br><br>
+2022.03 ~ 2023.02 | IT연합동아리 WIT | 프론트엔드 개발 팀장
 
 ## ✔️Back-end
 <br>
@@ -21,14 +25,6 @@
 
 #### Algorithm | &nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
 <br>
-
-## Activities 
-2024.07 ~ 2024.08 | 삼성전자 DX부문 하계 대학생 S/W 알고리즘 역량 강화 특강 수료<br><br>
-2023.07 ~ 2024.06 | 생성형AI를 활용한 SNS 마케팅 자동화 서비스 앱 | Spring Boot 개발 팀원<br><br>
-2024.03 ~ 2024.06 | 오프라인 보드게임을 웹 게임으로 개발하는 프로젝트 | Spring Boot 개발 팀장<br><br>
-2023.07 | 산업통상자원부 공공데이터 활용 공모전 - 제품 및 서비스 개발 부문 | 팀장, 디자인, Flutter 개발<br><br>
-2023.02 ~ 2023.07 | 창업동아리 | IT 플랫폼 기획 <br><br>
-2022.03 ~ 2023.02 | IT연합동아리 WIT | 프론트엔드 개발 팀장
 
 ## 🏆 
 2022 | OO대학교 제10회 SW창업 아이디어톤 | 장려상 | 기획 팀원 
