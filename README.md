@@ -37,8 +37,8 @@
 <br>
 
 ## Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yujeonglm99)](https://solved.ac/yujeonglm99)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yujeonglm99)](https://solved.ac/yujeonglm99)<br/>
 
 </div>
 <br><br>
-2023.09~2024.04.28까지의 활동이 contribution에 반영되지 않았습니다.
+노트북에 git 계정이 정상적으로 등록되지 않아, 2023.09~2024.04.28까지의 활동이 contribution에 반영되지 않았습니다.
